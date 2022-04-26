@@ -1,0 +1,14 @@
+//TYPES
+
+name: string;
+email: string;
+phone: string;
+birthDate: string;
+password: string;
+favoriteMovieGenre: string[];
+profile: string;
+status: string;
+term: boolean;
+genrer: string;
+
+
